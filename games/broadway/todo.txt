@@ -1,0 +1,25 @@
+TODO:
+    School / Individual mode
+    Journal integration
+
+Wishful thinking:
+	Youtube button
+	"Stage" Class to go between managing the current actor/background and everything else
+	Improve Subtitler Accuracy
+	Spell Checking
+	
+Credits:
+	Broadway by Austin Cory Bart
+	Graphics by Margaret Spagnolo
+	PGU by Phill Hassey and Peter Rogers
+	Spyral by Robert Deaton
+	Pygame by various
+	Espeak by various
+	Sample Backdrop: http://www.backgroundlabs.com/detail/link-400.html
+	Icons: http://commons.wikimedia.org/wiki/GNOME_Desktop_icons_2.20
+	Based on Hollywood, by Theatrix
+	
+	Backgrounds
+		Jungle: http://www.vectorjungle.com/2008/11/jungle-scene-background/
+		Summer-Scene: http://wallpapers.li/Summer-Scene.html
+		Winter Scene: http://www.thewallpapers.org/tag/lake/15

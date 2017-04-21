@@ -1,0 +1,1 @@
+Temp directory for generated images. Feel free to erase any other files you find in here. But not this!

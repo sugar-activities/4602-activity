@@ -1,0 +1,21 @@
+[Activity]
+# Description of the various fields/values for this file are available:
+# http://wiki.laptop.org/go/Activity_bundles
+# name, displayed to the user
+name = broadway 
+# version of the Activity as encoded in the file-name 
+# may be used (eventually) to allow for auto-updating
+# activities to their latest versions.
+activity_version = 3
+# Sugar's "host environment version", doesn't seem to be used for anything
+host_version = 1
+# DBUS service name which is used to communicate with this activity 
+# should be unique globally
+service_name = org.laptop.community.broadway
+# Specifies the name of the icon, the '.svg' is assumed, and the file must be 
+# in this directory (the activity sub-directory)
+icon = activity
+# The executable to run in order to launch the activity.  Normally we use the 
+# sugar-activity launching script, passing it the dotted class-name for our 
+# PygameActivity sub-class (in the activity.py module, one directory up).
+exec = sugar-activity activity.Activity

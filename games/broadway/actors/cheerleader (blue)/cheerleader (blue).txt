@@ -1,0 +1,21 @@
+body, stands, 5, -118
+face, angry
+face, cocky
+face, grumpy
+face, annoyed
+face, normal
+face, anxious
+face, unhappy
+face, happy
+face, cheerful
+face, bored
+face, guilty
+face, excited
+face, surprised
+face, worried
+face, scared
+face, joyful
+face, distraught
+face, loving
+face, embarrassed
+face, sad

@@ -1,0 +1,810 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2012-10-08 00:07+Eastern Daylight Time\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: .\games\broadway\action.py:87 .\games\broadway\action.py:114
+msgid "<Looks %(expression)s>"
+msgstr ""
+
+#: .\games\broadway\action.py:89 .\games\broadway\action.py:116
+msgid "<Moves>"
+msgstr ""
+
+#: .\games\broadway\action.py:91 .\games\broadway\action.py:118
+msgid "<%(action)s>"
+msgstr ""
+
+#: .\games\broadway\action.py:93 .\games\broadway\action.py:120
+msgid "<Faces %(direction)s>"
+msgstr ""
+
+#: .\games\broadway\action.py:95 .\games\broadway\action.py:122
+msgid "<Exits %(direction)s>"
+msgstr ""
+
+#: .\games\broadway\action.py:98 .\games\broadway\action.py:125
+msgid "<Enters left>"
+msgstr ""
+
+#: .\games\broadway\action.py:100 .\games\broadway\action.py:127
+msgid "<Enters right>"
+msgstr ""
+
+#: .\games\broadway\action.py:102
+msgid ""
+"\n"
+"[%(name)s]\t"
+msgstr ""
+
+#: .\games\broadway\action.py:104
+msgid "<Say %(speech)s>"
+msgstr ""
+
+#: .\games\broadway\action.py:106
+msgid "<Error>"
+msgstr ""
+
+#: .\games\broadway\action.py:129
+msgid ""
+"\n"
+"%(name)s: "
+msgstr ""
+
+#: .\games\broadway\action.py:141
+msgid "<em>&lt;Looks %(expression)s&gt;</em>"
+msgstr ""
+
+#: .\games\broadway\action.py:143
+msgid "<em>&lt;Moves&gt;</em>"
+msgstr ""
+
+#: .\games\broadway\action.py:145
+msgid "<em>&lt;%(action)s&gt;</em>"
+msgstr ""
+
+#: .\games\broadway\action.py:147
+msgid "<em>&lt;Faces %(direction)s&gt;</em>"
+msgstr ""
+
+#: .\games\broadway\action.py:149
+msgid "<em>&lt;Exits %(direction)s&gt;</em>"
+msgstr ""
+
+#: .\games\broadway\action.py:152
+msgid "<em>&lt;Enters left&gt;</em>"
+msgstr ""
+
+#: .\games\broadway\action.py:154
+msgid "<em>&lt;Enters right&gt;</em>"
+msgstr ""
+
+#: .\games\broadway\action.py:156
+msgid ""
+"<br>\n"
+"<strong>%(name)s</strong>:&nbsp;"
+msgstr ""
+
+#: .\games\broadway\action.py:207
+msgid "Looks %(expression)s."
+msgstr ""
+
+#: .\games\broadway\action.py:209
+msgid "Moves."
+msgstr ""
+
+#: .\games\broadway\action.py:211
+msgid "%(action)s."
+msgstr ""
+
+#: .\games\broadway\action.py:213
+msgid "Faces %(direction)s."
+msgstr ""
+
+#: .\games\broadway\action.py:215
+msgid "Exits %(direction)s."
+msgstr ""
+
+#: .\games\broadway\action.py:218
+msgid "Enters left."
+msgstr ""
+
+#: .\games\broadway\action.py:220
+msgid "Enters right."
+msgstr ""
+
+#: .\games\broadway\actorPanel.py:23 .\games\broadway\constants.py:196
+msgid "Actor"
+msgstr ""
+
+#: .\games\broadway\actorPanel.py:36
+msgid "Remove Actor"
+msgstr ""
+
+#: .\games\broadway\actorPanel.py:46 .\games\broadway\actorPanel.py:335
+#: .\games\broadway\actorPanel.py:338
+msgid "Add actor"
+msgstr ""
+
+#: .\games\broadway\actorPanel.py:112
+msgid "Initial Pose: "
+msgstr ""
+
+#: .\games\broadway\actorPanel.py:151
+msgid "Initial Look: "
+msgstr ""
+
+#: .\games\broadway\actorPanel.py:159
+msgid "Initial Face: "
+msgstr ""
+
+#: .\games\broadway\actorPanel.py:184 .\games\broadway\writePanel.py:185
+msgid "Move"
+msgstr ""
+
+#: .\games\broadway\actorPanel.py:188
+msgid " or start offscreen "
+msgstr ""
+
+#: .\games\broadway\actorPanel.py:247
+msgid "Actor: "
+msgstr ""
+
+#: .\games\broadway\actorPanel.py:262
+msgid "Name: "
+msgstr ""
+
+#: .\games\broadway\actorPanel.py:278
+msgid "Voice: "
+msgstr ""
+
+#: .\games\broadway\actorPanel.py:280 .\games\broadway\writePanel.py:41
+#: .\games\broadway\writePanel.py:51
+msgid "Test"
+msgstr ""
+
+#: .\games\broadway\auxiliary.py:134
+msgid "Come in:"
+msgstr ""
+
+#: .\games\broadway\auxiliary.py:136
+msgid "Leave:   "
+msgstr ""
+
+#: .\games\broadway\backdrop.py:69
+msgid "Add more actors to see more twists!"
+msgstr ""
+
+#: .\games\broadway\backdropPanel.py:22 .\games\broadway\constants.py:195
+msgid "Backdrop"
+msgstr ""
+
+#: .\games\broadway\backdropPanel.py:71
+msgid "Your's"
+msgstr ""
+
+#: .\games\broadway\backdropPanel.py:77
+msgid "Teacher's"
+msgstr ""
+
+#: .\games\broadway\backdropPanel.py:108
+msgid "No backdrops loaded"
+msgstr ""
+
+#: .\games\broadway\backdropPanel.py:110
+msgid "Backdrop %(index)d"
+msgstr ""
+
+#: .\games\broadway\backdropPanel.py:112
+msgid "Backdrops %(start_index)d to %(end_index)d"
+msgstr ""
+
+#: .\games\broadway\backdropPanel.py:137
+msgid "Load a Picture"
+msgstr ""
+
+#: .\games\broadway\backdropPanel.py:138 .\games\broadway\filePanel.py:225
+#: .\games\broadway\filePanel.py:302 .\games\broadway\filePanel.py:448
+#: .\games\broadway\filePanel.py:512
+msgid "Okay"
+msgstr ""
+
+#: .\games\broadway\backdropPanel.py:155 .\games\broadway\backdropPanel.py:170
+#: .\games\broadway\filePanel.py:162 .\games\broadway\filePanel.py:320
+msgid "Connection Error"
+msgstr ""
+
+#: .\games\broadway\backdropPanel.py:155 .\games\broadway\backdropPanel.py:170
+#: .\games\broadway\filePanel.py:162 .\games\broadway\filePanel.py:320
+msgid "You are not connected to the internet."
+msgstr ""
+
+#: .\games\broadway\backdropPanel.py:156 .\games\broadway\backdropPanel.py:171
+#: .\games\broadway\filePanel.py:163 .\games\broadway\filePanel.py:321
+msgid "Connect and then click Okay below."
+msgstr ""
+
+#: .\games\broadway\broadway.py:141
+msgid "Confirm Quit"
+msgstr ""
+
+#: .\games\broadway\broadway.py:141 .\games\broadway\filePanel.py:585
+#: .\games\broadway\filePanel.py:607
+msgid "You have unsaved changes!"
+msgstr ""
+
+#: .\games\broadway\broadway.py:142
+msgid "If you quit now, you'll lose them forever!"
+msgstr ""
+
+#: .\games\broadway\broadway.py:143
+msgid "Are you sure you want to quit?"
+msgstr ""
+
+#: .\games\broadway\constants.py:24
+msgid ""
+"Broadway by Austin Cory Bart\n"
+"Graphics by Margaret Spagnolo and various\n"
+"PGU by Phill Hassey and Peter Rogers\n"
+"Spyral by Robert Deaton\n"
+"Pygame from various\n"
+"Espeak from various\n"
+"Icons from various\n"
+"Based on Hollywood, by Theatrix\n"
+"Special thanks to Dr.s Pollock, Harvey, Mouza, Glancey, and Burns."
+msgstr ""
+
+#: .\games\broadway\constants.py:150
+msgid "Name"
+msgstr ""
+
+#: .\games\broadway\constants.py:152
+msgid "Hello, I am currently speaking. How do I sound?"
+msgstr ""
+
+#: .\games\broadway\constants.py:166 .\games\broadway\constants.py:170
+#: .\games\broadway\constants.py:174
+msgid "USB"
+msgstr ""
+
+#: .\games\broadway\constants.py:167 .\games\broadway\constants.py:171
+#: .\games\broadway\constants.py:175
+msgid "Built-in"
+msgstr ""
+
+#: .\games\broadway\constants.py:168 .\games\broadway\constants.py:172
+#: .\games\broadway\constants.py:176
+msgid "Home"
+msgstr ""
+
+#: .\games\broadway\constants.py:183
+msgid "Angry"
+msgstr ""
+
+#: .\games\broadway\constants.py:183
+msgid "Annoyed"
+msgstr ""
+
+#: .\games\broadway\constants.py:183
+msgid "Anxious"
+msgstr ""
+
+#: .\games\broadway\constants.py:183
+msgid "Bored"
+msgstr ""
+
+#: .\games\broadway\constants.py:183
+msgid "Cheerful"
+msgstr ""
+
+#: .\games\broadway\constants.py:183
+msgid "Cocky"
+msgstr ""
+
+#: .\games\broadway\constants.py:184
+msgid "Distraught"
+msgstr ""
+
+#: .\games\broadway\constants.py:184
+msgid "Embarrassed"
+msgstr ""
+
+#: .\games\broadway\constants.py:184
+msgid "Excited"
+msgstr ""
+
+#: .\games\broadway\constants.py:184
+msgid "Grumpy"
+msgstr ""
+
+#: .\games\broadway\constants.py:184
+msgid "Guilty"
+msgstr ""
+
+#: .\games\broadway\constants.py:185
+msgid "Happy"
+msgstr ""
+
+#: .\games\broadway\constants.py:185
+msgid "Joyful"
+msgstr ""
+
+#: .\games\broadway\constants.py:185
+msgid "Loving"
+msgstr ""
+
+#: .\games\broadway\constants.py:185
+msgid "Normal"
+msgstr ""
+
+#: .\games\broadway\constants.py:185
+msgid "Sad"
+msgstr ""
+
+#: .\games\broadway\constants.py:185
+msgid "Scared"
+msgstr ""
+
+#: .\games\broadway\constants.py:186
+msgid "Left"
+msgstr ""
+
+#: .\games\broadway\constants.py:186
+msgid "Right"
+msgstr ""
+
+#: .\games\broadway\constants.py:186
+msgid "Stands"
+msgstr ""
+
+#: .\games\broadway\constants.py:186
+msgid "Surprised"
+msgstr ""
+
+#: .\games\broadway\constants.py:186
+msgid "Unhappy"
+msgstr ""
+
+#: .\games\broadway\constants.py:186
+msgid "Worried"
+msgstr ""
+
+#: .\games\broadway\constants.py:187
+msgid "Cheerleader (Blue)"
+msgstr ""
+
+#: .\games\broadway\constants.py:187
+msgid "Cheerleader (Brown)"
+msgstr ""
+
+#: .\games\broadway\constants.py:187
+msgid "Cheerleader (Pink)"
+msgstr ""
+
+#: .\games\broadway\constants.py:188
+msgid "Hippie (Brown)"
+msgstr ""
+
+#: .\games\broadway\constants.py:188
+msgid "Hippie (Green)"
+msgstr ""
+
+#: .\games\broadway\constants.py:188
+msgid "Hippie (Pink)"
+msgstr ""
+
+#: .\games\broadway\constants.py:188
+msgid "Little girl (Brown)"
+msgstr ""
+
+#: .\games\broadway\constants.py:189
+msgid "Little girl (Peach)"
+msgstr ""
+
+#: .\games\broadway\constants.py:189
+msgid "Little girl (Yellow)"
+msgstr ""
+
+#: .\games\broadway\constants.py:189
+msgid "Nerd (Brown)"
+msgstr ""
+
+#: .\games\broadway\constants.py:189 .\games\broadway\script.py:165
+msgid "Narrator"
+msgstr ""
+
+#: .\games\broadway\constants.py:190
+msgid "Nerd (Green)"
+msgstr ""
+
+#: .\games\broadway\constants.py:190
+msgid "Nerd (Red)"
+msgstr ""
+
+#: .\games\broadway\constants.py:190
+msgid "Princess (Blue)"
+msgstr ""
+
+#: .\games\broadway\constants.py:190
+msgid "Princess (Green)"
+msgstr ""
+
+#: .\games\broadway\constants.py:191
+msgid "Basketball"
+msgstr ""
+
+#: .\games\broadway\constants.py:191
+msgid "Beach"
+msgstr ""
+
+#: .\games\broadway\constants.py:191
+msgid "Country"
+msgstr ""
+
+#: .\games\broadway\constants.py:191
+msgid "Jungle"
+msgstr ""
+
+#: .\games\broadway\constants.py:191
+msgid "Princess (Peach)"
+msgstr ""
+
+#: .\games\broadway\constants.py:192
+msgid "Female 1"
+msgstr ""
+
+#: .\games\broadway\constants.py:192
+msgid "Female 2"
+msgstr ""
+
+#: .\games\broadway\constants.py:192
+msgid "School"
+msgstr ""
+
+#: .\games\broadway\constants.py:192
+msgid "Tutorial"
+msgstr ""
+
+#: .\games\broadway\constants.py:192
+msgid "Winter"
+msgstr ""
+
+#: .\games\broadway\constants.py:192 .\games\broadway\constants.py:196
+#: .\games\broadway\theaterPanel.py:19
+msgid "Theater"
+msgstr ""
+
+#: .\games\broadway\constants.py:193
+msgid "Female 3"
+msgstr ""
+
+#: .\games\broadway\constants.py:193
+msgid "Female 4"
+msgstr ""
+
+#: .\games\broadway\constants.py:193
+msgid "Female 5"
+msgstr ""
+
+#: .\games\broadway\constants.py:193
+msgid "Female Fast"
+msgstr ""
+
+#: .\games\broadway\constants.py:193
+msgid "Female Slow"
+msgstr ""
+
+#: .\games\broadway\constants.py:194
+msgid "Male 1"
+msgstr ""
+
+#: .\games\broadway\constants.py:194
+msgid "Male 2"
+msgstr ""
+
+#: .\games\broadway\constants.py:194
+msgid "Male 3"
+msgstr ""
+
+#: .\games\broadway\constants.py:194
+msgid "Male 4"
+msgstr ""
+
+#: .\games\broadway\constants.py:194
+msgid "Male 5"
+msgstr ""
+
+#: .\games\broadway\constants.py:194
+msgid "Whisper"
+msgstr ""
+
+#: .\games\broadway\constants.py:195
+msgid "Croaker"
+msgstr ""
+
+#: .\games\broadway\constants.py:195
+msgid "Male Fast"
+msgstr ""
+
+#: .\games\broadway\constants.py:195
+msgid "Male Slow"
+msgstr ""
+
+#: .\games\broadway\constants.py:195 .\games\broadway\filePanel.py:45
+msgid "File"
+msgstr ""
+
+#: .\games\broadway\constants.py:196
+msgid "Plan"
+msgstr ""
+
+#: .\games\broadway\constants.py:196 .\games\broadway\panel.py:24
+msgid "Generic Panel"
+msgstr ""
+
+#: .\games\broadway\constants.py:196 .\games\broadway\writePanel.py:21
+msgid "Write"
+msgstr ""
+
+#: .\games\broadway\constants.py:197
+msgid "Plain"
+msgstr ""
+
+#: .\games\broadway\constants.py:197 .\games\broadway\filePanel.py:199
+msgid "Fancy"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:70
+msgid "Quit"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:71
+msgid "New"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:72
+msgid "Open"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:73 .\games\broadway\filePanel.py:82
+msgid "Save"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:74
+msgid "Save As"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:75 .\games\broadway\filePanel.py:234
+msgid "Export"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:99
+msgid "Title: "
+msgstr ""
+
+#: .\games\broadway\filePanel.py:107
+msgid "Author(s): "
+msgstr ""
+
+#: .\games\broadway\filePanel.py:114
+msgid "Description: "
+msgstr ""
+
+#: .\games\broadway\filePanel.py:149
+msgid "Credits"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:177
+msgid "an Author"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:179
+msgid "a Title"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:181
+msgid "an Author or Title"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:182
+msgid "Save without %(message)s?"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:183
+msgid "You haven't given your script %(message)s."
+msgstr ""
+
+#: .\games\broadway\filePanel.py:184
+msgid "Are you sure you want to export it?"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:192 .\games\broadway\filePanel.py:210
+msgid "Few"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:198
+msgid "Export Type: "
+msgstr ""
+
+#: .\games\broadway\filePanel.py:201
+msgid "Plain (just text)"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:202
+msgid "Fancy (pictures)"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:207
+msgid "Image Amount: "
+msgstr ""
+
+#: .\games\broadway\filePanel.py:208
+msgid "Tons"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:209
+msgid "Many"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:211
+msgid "None"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:216
+msgid "Location: "
+msgstr ""
+
+#: .\games\broadway\filePanel.py:217 .\games\broadway\filePanel.py:218
+msgid "Here"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:220
+msgid "Teacher"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:227
+msgid "Cancel"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:251
+msgid "Continue Upload?"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:251
+msgid "Uploading a script with these settings might take a long time."
+msgstr ""
+
+#: .\games\broadway\filePanel.py:252
+msgid "Continue the upload anyway?"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:272 .\games\broadway\filePanel.py:417
+#: .\games\broadway\filePanel.py:481
+msgid "Folders"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:276 .\games\broadway\filePanel.py:421
+#: .\games\broadway\filePanel.py:485
+msgid "Journal"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:294
+msgid "Export a script"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:301
+msgid "Export as %(fanciness)s"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:349
+msgid "There was a problem uploading the script."
+msgstr ""
+
+#: .\games\broadway\filePanel.py:349
+msgid "Upload Error"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:350
+msgid "Do you want to try again?"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:381 .\games\broadway\filePanel.py:572
+msgid "Overwrite?"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:382 .\games\broadway\filePanel.py:573
+msgid "This file already exists:"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:384 .\games\broadway\filePanel.py:575
+msgid "Are you sure you want to overwrite it?"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:437 .\games\broadway\filePanel.py:447
+msgid "Open a script"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:501 .\games\broadway\filePanel.py:511
+msgid "Save a script"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:584 .\games\broadway\filePanel.py:606
+msgid "Lose Unsaved Changes?"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:586
+msgid "Are you sure you want to load a  script?"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:592
+msgid "Error"
+msgstr ""
+
+#: .\games\broadway\filePanel.py:592
+msgid "That title doesn't exist."
+msgstr ""
+
+#: .\games\broadway\filePanel.py:608
+msgid "Are you sure you want to start a new script?"
+msgstr ""
+
+#: .\games\broadway\scriptMetadata.py:40
+msgid ""
+"Title: %s\n"
+"Author(s): %s\n"
+"Description: %s\n"
+"Version: %s\n"
+msgstr ""
+
+#: .\games\broadway\theaterPanel.py:110
+msgid "Subtitles:  "
+msgstr ""
+
+#: .\games\broadway\theaterPanel.py:116
+msgid "Mute:  "
+msgstr ""
+
+#: .\games\broadway\writePanel.py:57
+msgid "Stop"
+msgstr ""
+
+#: .\games\broadway\writePanel.py:80
+msgid "Change Pose: "
+msgstr ""
+
+#: .\games\broadway\writePanel.py:103
+msgid "Look: "
+msgstr ""
+
+#: .\games\broadway\writePanel.py:119
+msgid "Face: "
+msgstr ""
+
+#: .\games\broadway\writePanel.py:136
+msgid "New Idea"
+msgstr ""
+
+#: .\games\broadway\writePanel.py:142
+msgid "Use Idea"
+msgstr ""
+
+#: .\games\broadway\writePanel.py:150
+msgid "Current Idea:"
+msgstr ""
+
+#: .\games\broadway\writePanel.py:259
+msgid "Change speaker:"
+msgstr ""
+

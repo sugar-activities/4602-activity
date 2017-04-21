@@ -1,0 +1,50 @@
+
+Control Name Format
+	camelCase
+	
+	panel-widget-name
+	panel-widget-name-#
+	panel-widget-name-subname
+	
+	panel
+		panel-*
+		file-*
+		backdrop-*
+		actor-*
+		write-*
+		theater-*
+		tab-*
+	widge		
+		button
+		textArea
+		scriptArea
+		label
+		widthLabel
+		image
+		group
+		document
+		dialog
+		table
+		container
+		input
+		select
+		tool
+		switch
+Class use Format
+	class-function-name
+		'action-toText-feel'
+Backdrops
+	Names
+	Twists
+Actors
+	Names
+	Faces
+	Poses
+Script
+	NarratorName
+Constants
+	Defaults
+	Voices
+	Information
+
+strings[controlName].value

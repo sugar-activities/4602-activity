@@ -1,0 +1,150 @@
+2012-08-14 16:42:46,007 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 16:42:46,444 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 404 389
+2012-08-14 16:59:18,312 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 16:59:18,641 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 200 66
+2012-08-14 17:00:10,996 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 17:00:11,276 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 200 66
+2012-08-14 17:00:49,474 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 17:00:49,796 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 200 66
+2012-08-14 17:04:23,473 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 17:04:23,792 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 200 66
+2012-08-14 17:08:10,947 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 17:08:11,263 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 200 66
+2012-08-14 17:08:12,828 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 17:08:13,109 - DEBUG - "GET /broadway.php?action=image&teacher=burns HTTP/1.1" 200 262
+2012-08-14 17:12:08,677 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 17:12:09,000 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 200 66
+2012-08-14 17:12:10,193 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 17:12:10,463 - DEBUG - "GET /broadway.php?action=image&teacher=burns HTTP/1.1" 200 262
+2012-08-14 17:13:07,164 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 17:13:07,522 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 200 66
+2012-08-14 17:13:08,765 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 17:13:09,028 - DEBUG - "GET /broadway.php?action=image&teacher=burns HTTP/1.1" 200 None
+2012-08-14 17:13:14,068 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 17:13:14,334 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 200 66
+2012-08-14 17:13:15,802 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 17:13:16,186 - DEBUG - "GET /broadway.php?action=image&teacher=acbart HTTP/1.1" 200 None
+2012-08-14 17:15:43,066 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 17:15:43,335 - DEBUG - "GET /nowherebroadway.php?action=teachers HTTP/1.1" 404 389
+2012-08-14 17:17:00,338 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 17:17:00,611 - DEBUG - "GET /nowherebroadway.php?action=teachers HTTP/1.1" 404 389
+2012-08-14 17:18:47,568 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 17:18:47,835 - DEBUG - "GET /nowherebroadway.php?action=teachers HTTP/1.1" 404 389
+2012-08-14 17:18:50,740 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 17:18:51,026 - DEBUG - "GET /nowherebroadway.php?action=teachers HTTP/1.1" 404 389
+2012-08-14 17:18:51,783 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 17:18:52,051 - DEBUG - "GET /nowherebroadway.php?action=teachers HTTP/1.1" 404 389
+2012-08-14 17:18:52,519 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 17:18:52,986 - DEBUG - "GET /nowherebroadway.php?action=teachers HTTP/1.1" 404 389
+2012-08-14 17:21:46,216 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 17:21:46,487 - DEBUG - "GET /nowherebroadway.php?action=teachers HTTP/1.1" 404 389
+2012-08-14 17:21:47,433 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 17:21:47,700 - DEBUG - "GET /nowherebroadway.php?action=teachers HTTP/1.1" 404 389
+2012-08-14 17:21:48,279 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 17:21:48,546 - DEBUG - "GET /nowherebroadway.php?action=teachers HTTP/1.1" 404 389
+2012-08-14 17:21:50,486 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 17:21:50,749 - DEBUG - "GET /nowherebroadway.php?action=teachers HTTP/1.1" 404 389
+2012-08-14 17:21:51,342 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 17:21:51,605 - DEBUG - "GET /nowherebroadway.php?action=teachers HTTP/1.1" 404 389
+2012-08-14 17:21:52,372 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 17:21:52,630 - DEBUG - "GET /nowherebroadway.php?action=teachers HTTP/1.1" 404 389
+2012-08-14 20:20:09,562 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 20:20:09,898 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 200 66
+2012-08-14 20:21:12,651 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 20:21:12,997 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 200 66
+2012-08-14 20:21:46,713 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 20:21:47,049 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 200 66
+2012-08-14 20:22:08,772 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 20:22:09,130 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 200 66
+2012-08-14 20:22:36,703 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 20:22:37,020 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 200 66
+2012-08-14 20:22:38,315 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 20:22:39,532 - DEBUG - "POST /broadway.php HTTP/1.1" 200 27
+2012-08-14 20:22:48,634 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 20:22:48,892 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 200 66
+2012-08-14 20:22:50,765 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 20:22:51,173 - DEBUG - "POST /broadway.php HTTP/1.1" 200 27
+2012-08-14 20:23:46,513 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 20:23:46,960 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 200 66
+2012-08-14 20:23:48,295 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 20:23:51,931 - DEBUG - "POST /broadway.php HTTP/1.1" 200 27
+2012-08-14 20:24:25,191 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 20:24:25,585 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 200 66
+2012-08-14 20:24:26,937 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 20:24:31,453 - DEBUG - "POST /broadway.php HTTP/1.1" 200 27
+2012-08-14 20:25:34,184 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 20:25:36,438 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 200 66
+2012-08-14 20:25:39,174 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 20:25:40,756 - DEBUG - "POST /broadway.php HTTP/1.1" 200 27
+2012-08-14 20:27:17,871 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 20:27:18,247 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 200 66
+2012-08-14 20:27:20,450 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 20:27:24,983 - DEBUG - "POST /broadway.php HTTP/1.1" 200 27
+2012-08-14 20:28:27,247 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 20:28:27,635 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 200 66
+2012-08-14 20:28:29,457 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 20:28:29,891 - DEBUG - "POST /broadway.php HTTP/1.1" 200 27
+2012-08-14 20:28:42,421 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 20:28:42,796 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 200 66
+2012-08-14 20:28:44,390 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 20:28:47,505 - DEBUG - "POST /broadway.php HTTP/1.1" 200 27
+2012-08-14 20:29:55,826 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 20:29:56,250 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 200 66
+2012-08-14 20:29:58,084 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-14 20:29:59,586 - DEBUG - "POST /broadway.php HTTP/1.1" 200 27
+2012-08-16 15:31:57,724 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-16 15:31:58,792 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 200 62
+2012-08-16 15:32:01,878 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-16 15:32:02,301 - DEBUG - "GET /broadway.php?action=image&teacher=burns HTTP/1.1" 200 None
+2012-08-16 15:35:27,721 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-16 15:35:29,010 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 200 62
+2012-08-16 15:35:33,035 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-16 15:35:43,802 - DEBUG - "POST /broadway.php HTTP/1.1" 200 27
+2012-08-19 23:21:29,673 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-19 23:21:30,612 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 200 50
+2012-08-19 23:21:34,019 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-19 23:21:34,328 - DEBUG - "GET /broadway.php?action=image&teacher=acbart HTTP/1.1" 200 None
+2012-08-19 23:24:51,029 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-19 23:24:51,354 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 200 50
+2012-08-19 23:24:54,164 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-19 23:24:56,013 - DEBUG - "POST /broadway.php HTTP/1.1" 200 27
+2012-08-20 06:27:42,700 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-20 06:27:43,167 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 200 50
+2012-08-20 06:27:46,039 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-20 06:27:49,767 - DEBUG - "POST /broadway.php HTTP/1.1" 200 27
+2012-08-20 19:45:45,811 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-20 19:45:46,292 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 200 50
+2012-08-20 19:45:48,385 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-20 19:45:51,854 - DEBUG - "POST /broadway.php HTTP/1.1" 200 27
+2012-08-20 22:32:16,361 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-20 22:32:16,927 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 200 50
+2012-08-20 22:32:18,779 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-20 22:32:41,134 - DEBUG - "POST /broadway.php HTTP/1.1" 200 27
+2012-08-22 02:00:33,555 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-22 02:00:33,980 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 200 60
+2012-08-22 02:00:51,766 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-22 02:00:55,763 - DEBUG - "POST /broadway.php HTTP/1.1" 200 27
+2012-08-22 02:01:11,299 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-22 02:01:11,595 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 200 60
+2012-08-22 02:01:13,414 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-22 02:01:13,819 - DEBUG - "POST /broadway.php HTTP/1.1" 200 27
+2012-08-22 02:25:11,240 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-22 02:25:11,617 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 200 60
+2012-08-22 02:25:14,759 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-22 02:25:18,762 - DEBUG - "POST /broadway.php HTTP/1.1" 200 27
+2012-08-22 02:25:36,986 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-22 02:25:37,296 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 200 60
+2012-08-22 02:25:38,970 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-08-22 02:25:39,394 - DEBUG - "POST /broadway.php HTTP/1.1" 200 27
+2012-09-19 13:30:33,009 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-09-19 13:30:33,618 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 200 267
+2012-09-19 13:30:47,907 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-09-19 13:30:48,592 - DEBUG - "POST /broadway.php HTTP/1.1" 200 27
+2012-09-19 13:31:55,739 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-09-19 13:31:55,927 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 200 267
+2012-09-19 13:32:02,266 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-09-19 13:32:02,431 - DEBUG - "GET /broadway.php?action=image&teacher=acbart HTTP/1.1" 200 None
+2012-09-19 14:04:48,265 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-09-19 14:04:52,628 - DEBUG - "GET /broadway.php?action=teachers HTTP/1.1" 200 267
+2012-09-19 14:04:58,825 - INFO - Starting new HTTP connection (1): xo.acbart.com
+2012-09-19 14:04:58,960 - DEBUG - "GET /broadway.php?action=image&teacher=acbart HTTP/1.1" 200 None

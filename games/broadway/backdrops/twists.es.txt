@@ -1,0 +1,42 @@
+basketball
+	Hoy es la dia de la juego, y %s no está listo.
+	Recess was the worst time of the day for %s, and that was because of %s.
+	%s thought the playground seemed kind of empty. Where was everyone?
+	%s and %s had challenged %s and %s to a game of basketball!
+	%s was ready for the big basketball game, but didn't realize she had forgotten something.
+	The basketball court had a secret, and today, someone was going to find out what it was...
+beach
+	It was a beautiful day at the beach, and %s was ready to have fun. But %s wasn't as happy.
+	The boat had crashed a couple days ago, and %s was already sick of the island.
+	%s always had a problem with bullies, and it looked like today would be pretty typical.
+	The school trip to the beach was finally here, but would %s, %s, and %s be able to enjoy it?
+	%s and %s were having fun at the beach, when they suddenly realized %s had gone missing!
+country
+	The winding country road had taken %s here. But where was "here"?
+	Lost in the middle of nowhere, %s and %s didn't know what to do next.
+	%s and %s were enjoying a day in the country, when they ran into %s. They weren't pleased to see him again.
+	%s was fed up with life, and she decided to hit the road. What would happen to her out here?
+jungle
+	The jungle went on for miles, and it was time for %s to admit that he was lost.
+	%s and %s suddenly realized that the rest of the class wasn't around: they were lost in the jungle, alone.
+	Having a jungle behind their school sounded cool to %s, but now that he was here, he wasn't happy.
+	%s was exploring a jungle, and had just discovered some pots. But this was supposed to be a jungle untouched by humans, how did these pots get here?
+school
+	Suddenly, %s noticed that the school was empty. It was a Saturday!
+	%s was late to class, how was he going to explain this one?
+	It was %s's first day of middle school, and he didn't know where to go! Would %s help him?
+	Today was the last day of school before summer vacation, and %s had a plan to go home early!
+	Suddenly, the principal's voice came on over the intercom!
+theater
+	%s had finally worked up the courage to ask %s on a date. But was he really ready for it?
+	%s and %s weren't sure what movie to watch today, there were so many options!
+	%s and %s didn't know how to tell %s that his play was terrible. This was going to be awkward!
+tutorial
+	Use the Test button to preview your story before going to the theater!
+	Pick a Backdrop before writing your story!
+	Remember to save often!
+winter
+	It was the first day of winter, and it had already snowed a ton!
+	The snow was beautiful, but %s wasn't happy to be out in it. He would go back inside if he could.
+	%s loved the mountains, but he hated being in them when %s was with him.
+	%s and %s were lost in the mountains. Would they be able to survive?
